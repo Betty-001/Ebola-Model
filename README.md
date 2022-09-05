@@ -4,3 +4,5 @@ Ebola is a virus that causes a highly virulent infectious disease that has plagu
 The flow of the SIFR model is below: (S-Susceptible, I-Infectious, F-Funeral, R-Removed)
 
 ![截屏2022-09-04 22 29 51](https://user-images.githubusercontent.com/76781009/188350391-2e24a7ff-a174-420e-b199-810dfd95c134.png)
+
+Everything I want to show you is included in the file above. Please read it if you are interested.
